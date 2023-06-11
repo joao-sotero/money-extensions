@@ -4,6 +4,25 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>MoneyExtensions</PackageId>
+    <Version>12.4.0</Version>
+    <License>MIT</License>
+    <Authors>João Sotero</Authors>
+    <Company>JS-solution</Company>
+    <PackageDescription>Extension convert decimal to integer</PackageDescription>
+    <Description>Extension convert decimal to integer</Description>
+    <RepositoryUrl>https://github.com/joao-sotero/money-extensions</RepositoryUrl>
+    <Repository>https://github.com/joao-sotero/money-extensions</Repository>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageTags>money;int;decimal;convert</PackageTags>
+    <Title>MoneyExtensions</Title>
+    <Summary>Extension convert decimal to integer</Summary>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\Media\icon.png" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 
 </Project>
