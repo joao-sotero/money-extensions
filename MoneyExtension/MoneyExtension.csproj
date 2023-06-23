@@ -18,6 +18,7 @@
     <PackageIcon>icon.png</PackageIcon>
     <PackageTags>money;int;decimal;convert</PackageTags>
     <Title>MoneyExtensions</Title>
+    <PackageId>MoneyExtensions</PackageId>
     <Summary>Extension convert decimal to integer</Summary>
   </PropertyGroup>
 
