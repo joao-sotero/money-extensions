@@ -2,7 +2,7 @@
 public  static class Money
 {
     public static int ToCents(this decimal amount)
-    {
+    { 
         if(amount <= 0)
             return 0;
 
