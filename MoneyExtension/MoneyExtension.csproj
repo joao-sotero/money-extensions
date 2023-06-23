@@ -17,8 +17,8 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>
     <PackageTags>money;int;decimal;convert</PackageTags>
-    <Title>6bc07276a1a74ab0bdf9cd2f7982beceMoneyExtensions</Title>
-    <PackageId>MoneyExtensions</PackageId>
+    <Title>MoneyExtensions</Title>
+    <PackageId>6bc07276a1a74ab0bdf9cd2f7982beceMoneyExtensions</PackageId>
     <Summary>Extension convert decimal to integer</Summary>
   </PropertyGroup>
 
